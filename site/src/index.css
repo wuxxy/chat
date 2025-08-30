@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+#root{
+    height: 100vh;    
+}
+body{
+    @apply bg-gray-950 text-white;
+}
+*{
+    @apply focus:outline-none;
+}
