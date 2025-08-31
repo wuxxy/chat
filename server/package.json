@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "@fastify/cors": "^11.1.0",
     "@fastify/websocket": "^11.2.0",
     "@prisma/client": "^6.15.0",
     "@types/jsonwebtoken": "^9.0.10",
