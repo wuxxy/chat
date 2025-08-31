@@ -6,3 +6,5 @@ node_modules
 /node_modules
 /deno.lock
 /package-lock.json
+prisma/migrations/*
+*/migrations

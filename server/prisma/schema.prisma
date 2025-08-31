@@ -17,7 +17,7 @@ datasource db {
 model User {
   id       String    @id
   username String
-  Avatar   String
+  avatar   String
   messages Message[]
 }
 
